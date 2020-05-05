@@ -1,3 +1,3 @@
 FROM dockersamples/static-site
-ENV AUTHOR="SADATOMO YAMASAKI"
+ENV AUTHOR="YAMASAKI"
 
